@@ -1,0 +1,9 @@
+// Barrel exports for UI components
+export { Button } from './Button';
+export { MovieCard } from './MovieCard';
+export { MovieList } from './MovieList';
+export { FeaturedCarousel } from './FeaturedCarousel';
+export { SearchInput } from './SearchInput';
+export { FilterChip } from './FilterChip';
+export { FilterDrawer } from './FilterDrawer';
+export { SearchWithFilters } from './SearchWithFilters';
